@@ -70,7 +70,8 @@ nav >a{
     font-weight: bold;
     border-radius: 4px;
     transition-duration: 0.5s;
-    margin: auto;
+    display: inline-block;
+    height: 10px;
 
 } 
 nav > a:hover{
