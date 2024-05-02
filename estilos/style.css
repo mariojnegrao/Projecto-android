@@ -94,7 +94,6 @@ main{
 main  h1{
     font-family: var(--font-android);  
     color: var(--cor4);
-    text-align: center;
     padding: 20px;
 
 }
